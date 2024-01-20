@@ -27,11 +27,16 @@ td{
     font-size: 1000;
     font-weight: 800;
     
-    color: #ffffff;
+    color: black;
 }
 td:hover{
 color: rgb(253, 253, 25);
 }
 tr:hover{
     background-color:rgb(138, 28, 0);
+}
+
+tr{
+    background-color: #ffffff;
+    color: black;
 }
